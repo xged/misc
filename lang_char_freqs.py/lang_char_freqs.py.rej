@@ -1,0 +1,9 @@
+diff a/lang_char_freqs.py b/lang_char_freqs.py	(rejected hunks)
+@@ -89,6 +89,7 @@ class CommitCharFreqs():
+             self.add_dir(Path(tempdir), repourl)
+ 
+     def add_repourls_lastupdated(self, npages=1, perpage=1, max=False) -> None:
++        print(self.commit_limit)
+         for repourl in fetch_repourls_lastupdated(npages, perpage, max):
+             self.add_repourl(repourl)
+ 

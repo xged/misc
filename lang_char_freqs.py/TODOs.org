@@ -1,0 +1,15 @@
+
+test: caching, pytest parameter
+fetch_repourls_lastupdated: number
+
+append
+TEST PERF: append: if else performance
+repourl = 'https://github.com/Tencent/wcdb\n'
+timout
+print: nr repos
+cytoolz letters = frequencies(concat(loud_book))
+
+test: problems with data/python_repo
+sh xonsh
+no commits err
+__add__()

@@ -1,0 +1,1 @@
+Simple module for dealing with frequencies of characters. Counts total or relative character frequencies in strings, files, globs.

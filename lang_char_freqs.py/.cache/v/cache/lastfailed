@@ -1,0 +1,6 @@
+{
+  "test_add_repourls_lastupdated--cache.py::test_add_repourls_lastupdated": true,
+  "test_pytest.py::test_charfreqs": true,
+  "test_pytest.py::test_file": true,
+  "test_pytest.py::test_total": true
+}
