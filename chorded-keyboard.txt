@@ -1,0 +1,15 @@
+Navigate
+c e
+j l
+a -l
+c-j c-k
+
+Manage
+esc m
+b q
+-d -f
+mj C-d|C-f
+
+
+(xged/kb-n "x" (lambda () (interactive) (avy-goto-subword-1 ?a)))
+(define-key ivy-minibuffer-map (kbd "z z") 'ivy-next-line)
